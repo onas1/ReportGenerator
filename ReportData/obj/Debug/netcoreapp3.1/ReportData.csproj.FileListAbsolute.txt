@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportModels.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportData.deps.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportData.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportData.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportData.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportData.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\bin\Debug\netcoreapp3.1\ReportModels.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.csproj.CopyComplete
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportData\obj\Debug\netcoreapp3.1\ReportData.genruntimeconfig.cache

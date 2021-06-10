@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportRepository.deps.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportRepository.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportRepository.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportData.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportModels.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportData.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\bin\Debug\netcoreapp3.1\ReportModels.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week-6-onas1\ReportGenerator\ReportRepository\obj\Debug\netcoreapp3.1\ReportRepository.csproj.CopyComplete

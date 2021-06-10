@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tanw+fuDZhnaaWsSuwRTyqJGpF1eU4Dv+ngExKiXaAPJs6/57C8/okZ11za2OLFz7ImdxcLuH1Q699elikYD1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Decagon program uploaded to github\\week-6-onas1\\ReportGenerator\\ReportModels\\ReportModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
